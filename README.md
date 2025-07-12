@@ -58,15 +58,6 @@ Once the views were created in MySQL, SQLAlchemy was used to pull data into Pyth
 
 ---
 
-## 🚀 How to Run
-
-1. Clone this repository
-2. Set up MySQL and import the dataset into a table named `sales`
-3. Execute SQL views from the `sql_setup.sql` file (optional)
-4. Run `Retail_analysis.ipynb` in Jupyter Notebook
-
----
-
 
 ---
 
